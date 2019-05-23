@@ -1,0 +1,12 @@
+<ktop/djangogirls/blog
+ ..
+ __pycache__/
+ migrations/
+ templates/
+ __init__.py
+ admin.py
+ apps.py
+ models.py
+ tests.py
+ urls.py
+ views.py
